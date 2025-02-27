@@ -11,6 +11,9 @@ https://solana.com/de/docs
 For questions either in [discord](https://discord.com/channels/1334691746214580294/1334691746214580297) or on
 [Solana Stackexchagne](https://solana.stackexchange.com/)
 
+[Bootcamp Video](https://www.youtube.com/watch?v=amAq-WHAFs8&t=2s&ab_channel=Solana)
+
+
 ## Create a Dapp:
 
 Create a Solana Program together with a web frontend:
