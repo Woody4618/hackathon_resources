@@ -33,6 +33,8 @@ https://solana.com/de/developers/guides/getstarted/intro-to-ai
 Video:
 https://www.youtube.com/watch?v=O6tKgtYQZDY&ab_channel=SolPlay
 
+I will share an OpenAI Api key during the opening Workshop. 
+
 ## Getting Started with Hardware:
 
 https://github.com/solana-developers/solana-depin-examples
