@@ -7,6 +7,9 @@ https://solana.com/de/docs/intro/installation
 General docs: 
 https://solana.com/de/docs
 
+For questions either in [discord](https://discord.com/channels/1334691746214580294/1334691746214580297) or on
+[Solana Stackexchagne](https://solana.stackexchange.com/)
+
 ## Create a Dapp:
 
 Create a Solana Program together with a web frontend:
