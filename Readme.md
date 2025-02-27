@@ -2,7 +2,7 @@
 
 ## Install Solana:
 
-Recommended to do before the Hackathon already: 
+Recommended to Install Solana CLI before the Hackathon already: 
 https://solana.com/de/docs/intro/installation
 
 General docs: 
