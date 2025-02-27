@@ -18,7 +18,7 @@ Create a Solana Program together with a web frontend:
 ```
 npx create-solana-dapp <appName>
 ```
-
+[How to use the preset](https://solana.com/de/docs/toolkit/projects/web-app)
 [Journal example](https://solana.com/de/developers/guides/dapps/journal)
 
 ## Create a Solana Game:
