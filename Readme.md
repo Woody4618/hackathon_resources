@@ -4,6 +4,9 @@
 
 https://solana.com/de/docs/intro/installation
 
+General docs: 
+https://solana.com/de/docs
+
 ## Create a Dapp:
 
 Create a Solana Program together with a web frontend:
