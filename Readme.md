@@ -13,6 +13,7 @@ npx create-solana-dapp <appName>
 ```
 
 https://solana.com/de/docs/intro/create-a-dapp
+[Video walkthrough](https://www.youtube.com/watch?v=VRCcUlUTjfc)
 
 ## Create a Solana Game:
 
