@@ -2,7 +2,16 @@
 
 ## Install Solana:
 
+Recommended to Install Solana CLI before the Hackathon already:
 https://solana.com/de/docs/intro/installation
+
+General docs:
+https://solana.com/de/docs
+
+For questions either in [discord](https://discord.com/channels/1334691746214580294/1334691746214580297) or on
+[Solana Stackexchagne](https://solana.stackexchange.com/)
+
+[Bootcamp Video](https://www.youtube.com/watch?v=amAq-WHAFs8&t=2s&ab_channel=Solana)
 
 ## Create a Dapp:
 
@@ -13,6 +22,7 @@ npx create-solana-dapp <appName>
 ```
 
 https://solana.com/de/docs/intro/create-a-dapp
+
 [Video walkthrough](https://www.youtube.com/watch?v=VRCcUlUTjfc)
 
 ## Create a Solana Game:
@@ -33,6 +43,8 @@ https://solana.com/de/developers/guides/getstarted/intro-to-ai
 
 Video:
 https://www.youtube.com/watch?v=O6tKgtYQZDY&ab_channel=SolPlay
+
+I will share an OpenAI Api key during the opening Workshop.
 
 ## Getting Started with Hardware:
 
