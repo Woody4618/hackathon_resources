@@ -53,3 +53,7 @@ https://github.com/solana-developers/solana-depin-examples
 Hello World using a Raspberry Pi:
 
 https://github.com/solana-developers/solana-depin-examples/tree/main/led-switch
+
+## How to create a Solana Token: 
+
+https://solana.com/de/developers/guides/getstarted/how-to-create-a-token
